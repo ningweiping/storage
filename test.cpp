@@ -19,6 +19,6 @@ int main() {
         min_p = min(min_p, prefix[i]);
     }
 
-    cout << max_s << endl;
+    cout << max_s;
     return 0;
 }
